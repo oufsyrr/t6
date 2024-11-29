@@ -18,4 +18,4 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <URL_вашего_репозитория>
+   git clone https://github.com/oufsyrr/t6
